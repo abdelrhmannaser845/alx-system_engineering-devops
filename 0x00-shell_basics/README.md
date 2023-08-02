@@ -1,1 +1,1 @@
-this is the readme for shell basics
+THIS IS TNE README FOR SHELL BASICS
